@@ -69,6 +69,12 @@ site_name: Nome do seu site
 site_url: https://nomeusuario.github.io.com
 ```
 
+## IMPORTANTE: Criar seu arquivo .gitignore
+
+```shell
+echo https://www.toptal.com/developers/gitignore/api/python > .gitignore
+```
+
 ## Submeter branch principal para o github
 
 ```shell
