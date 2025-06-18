@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to MkDocs","text":"<p>Exemplo do Geral.</p>"},{"location":"about/","title":"About","text":"<p>Apenas um exemplo para os alunos do SESI.</p>"}]}
