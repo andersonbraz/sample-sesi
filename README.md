@@ -69,6 +69,9 @@ site_url: https://nomeusuario.github.io.com
 
 ```shell
 git checkout -b main
+git add .
+git commit -m "Up File(s) project."
+git push
 ```
 
 ## Realizar deploy para o github
