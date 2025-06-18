@@ -8,7 +8,7 @@ Meu nome de usuário no github é andersonbraz.
 
 então criei um repositório com o nome:
 
-andersonbraz.github.io
+https://andersonbraz.github.io
 
 
 ## Clonar o repositório para seu computador
