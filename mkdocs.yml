@@ -1,0 +1,7 @@
+site_name: Sample SESI
+site_url: https://andersonbraz.github.io.com/sample-sesi/
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
