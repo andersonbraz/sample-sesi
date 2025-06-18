@@ -1,6 +1,6 @@
-# Passo page.github.io
+# Passo a passo para construir sua-page.github.io
 
-Primeiro você deve criara um repositório para seu nome de usuário no github.
+Primeiro você deve criar um repositório para seu nome de usuário no github.
 
 Exemplo:
 
@@ -57,6 +57,7 @@ mkdocs new .
 
 ```shell
 mkdocs serve
+```
 
 ## IMPORTANTE: Configurar url do seu site para deploy
 
